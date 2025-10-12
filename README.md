@@ -41,3 +41,11 @@ gitee : https://gitee.com/
 
 
 https://blog.csdn.net/gx19862005/article/details/48528235
+
+Question1:
+CPU 里面有寄存器;CPU里面的寄存器存放指令的地址; 
+那外设有寄存器吗？ 那外设里面的寄存器存放的是什么地址？
+是不是所有的外设都有寄寄存器，都有地址？I2C,GPIO ,UART,SerDes，这些
+
+
+
